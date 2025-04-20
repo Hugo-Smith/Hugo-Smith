@@ -40,7 +40,7 @@ I'm a recently graduated student from the University of Strathclyde with a 1st i
       <br>Flask
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40" alt="AWS" />
       <br>AWS
     </td>
     <td align="center">
